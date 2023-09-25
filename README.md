@@ -4,7 +4,7 @@ The idea behind bach is to make forking and keeping up-to-date with upstream eas
 
 # How to use?
 
-First of all, clone `bach` and put it's folder somewhere in your project. 
+First of all, clone `bach` and put it's folder somewhere in your project. \
 Ideally extract (or symlink) scripts so that they are in your project's root directory.
 
 Second step is to add the repo you want to patch as a submodule like this:
@@ -24,8 +24,8 @@ Now, you can start working on the upstream project, commit changes and run `genP
 
 # Configurable properties
 
-`REPO_URL` - The URL of the repo you are patching.
-`MODULE_DIR` - The directory where the module got cloned into (usually case-sensitive repo name).
-`PATCH_DIR` - The directory where all generated patches will be generated.
+`REPO_URL` - The URL of the repo you are patching. \
+`MODULE_DIR` - The directory where the module got cloned into (usually case-sensitive repo name). \
+`PATCH_DIR` - The directory where all generated patches will be generated. \
 `ORIGIN_BRANCH` - The branch (or tag) you are patching.
 
