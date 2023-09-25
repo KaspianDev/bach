@@ -8,7 +8,7 @@ First of all, clone `bach` and put it's folder somewhere in your project. \
 Ideally extract (or symlink) scripts so that they are in your project's root directory.
 
 Second step is to add the repo you want to patch as a submodule like this:
-```bash
+```console
 git submodule add URL
 ```
 
