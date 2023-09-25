@@ -1,0 +1,4 @@
+REPO_URL="https://github.com/drtshock/Potato.git"
+MODULE_DIR="Potato"
+PATCH_DIR="patches"
+ORIGIN_BRANCH="origin/master"
