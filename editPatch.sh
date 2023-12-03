@@ -3,5 +3,5 @@
 source .bach
 
 cd $MODULE_DIR
-git rebase --interactive
+git rebase --interactive $ORIGIN_BRANCH
 
